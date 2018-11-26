@@ -42,40 +42,41 @@ Each participant will need a laptop with a browser and an internet connection.
 
 ● Intro:
 
-○ The Short History of Monitoring
+    ○ The Short History of Monitoring
 
-○ Modern Monitoring Challenges and Approaches
+    ○ Modern Monitoring Challenges and Approaches
 
-○ Pull-based vs. push-based systems
+    ○ Pull-based vs. push-based systems
 
-○ Defining code instrumentation.
+    ○ Defining code instrumentation.
 
 ● Prometheus
 
-○ How Prometheus is different.
+    ○ How Prometheus is different.
 
-○ Prometheus architecture
+    ○ Prometheus architecture
 
-○ Prometheus client libraries
+    ○ Prometheus client libraries
 
-  ■ Metric types
+        ■ Metric types
 
-○ Prometheus Query Language - the basics
+    ○ Prometheus Query Language - the basics
 
 ● Hands-on:
 
-○ Installing and running Prometheus
+    ○ Installing and running Prometheus
 
-○ Defining targets and instances
+    ○ Defining targets and instances
 
-○ Monitoring system metrics with node exporter
+    ○ Monitoring system metrics with node exporter
 
-○ Instrumenting a Flask app with python client library
+    ○ Instrumenting a Flask app with python client library
 
-○ Running basic queries
+    ○ Running basic queries
 
-○ Integrating with Grafana
+    ○ Integrating with Grafana
 
-○ Setting up alerts
+    ○ Setting up alerts
 
-### virtual lab environments for our workshop will be sponsored by https://strigo.io/ ![strigo logo](https://strigo.io/wp-content/uploads/2018/06/strigo-logo.svg)
+### virtual lab environments for our workshop will be sponsored by ![strigo logo](https://strigo.io/wp-content/uploads/2018/06/strigo-logo.svg)
+https://strigo.io/ 
