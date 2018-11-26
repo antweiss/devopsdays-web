@@ -58,7 +58,7 @@ Each participant will need a laptop with a browser and an internet connection.
 
 ○ Prometheus client libraries
 
-■ Metric types
+  ■ Metric types
 
 ○ Prometheus Query Language - the basics
 
@@ -78,4 +78,4 @@ Each participant will need a laptop with a browser and an internet connection.
 
 ○ Setting up alerts
 
-### virtual lab environments for our workshop will be sponsored by https://strigo.io/
+### virtual lab environments for our workshop will be sponsored by https://strigo.io/ ![strigo logo](https://strigo.io/wp-content/uploads/2018/06/strigo-logo.svg)
