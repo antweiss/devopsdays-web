@@ -78,5 +78,4 @@ Each participant will need a laptop with a browser and an internet connection.
 
     ○ Setting up alerts
 
-### virtual lab environments for our workshop will be sponsored by ![strigo logo](https://strigo.io/wp-content/uploads/2018/06/strigo-logo.svg)
-https://strigo.io/ 
+### virtual lab environments for our workshop will be sponsored by ![strigo logo](https://strigo.io/wp-content/uploads/2018/06/strigo-logo.svg) https://strigo.io/ 
